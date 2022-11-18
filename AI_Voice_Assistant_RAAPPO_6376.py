@@ -1,5 +1,5 @@
 import subprocess
-
+import wolframalpha
 import pyttsx3
 import json
 import random
